@@ -21,7 +21,7 @@
 	--background-secondary-alt: hsl(310, 54%, 41%);
 	--background-tertiary: hsl(309, 68%, 22%);
 	--background-accent: hsl(320, 67%, 47%);
-	--background-floating: hsl(323, 67%, 74%);
+	--background-floating: hsl(323, 95%, 30%);
 	--background-mobile-primary: var(--background-primary);
 	--background-mobile-secondary: var(--background-secondary);
 	--background-modifier-hover: hsl(300, 39%, 47%);
